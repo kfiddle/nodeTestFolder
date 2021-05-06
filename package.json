@@ -1,15 +1,26 @@
 {
-  "name": "nodeTestFolder",
+  "name": "nodetestfolder",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["heroku"],
+  "keywords": [
+    "heroku"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "parcel-bundler": "^1.12.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfiddle/nodeTestFolder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kfiddle/nodeTestFolder/issues"
+  },
+  "homepage": "https://github.com/kfiddle/nodeTestFolder#readme",
+  "description": ""
 }
